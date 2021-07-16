@@ -1,2 +1,5 @@
 # Matlab Auto Save
 *.asv
+
+# Official Matlab Code
+/official_matlab_code
